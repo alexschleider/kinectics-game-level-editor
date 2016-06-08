@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<level>
+  <chooser amount="1" posY="100.0" chooserType="1" posX="35.0"/>
+  <chooser amount="1" posY="150.0" chooserType="3" posX="35.0"/>
+  <floor floorType="0" floorHeight="15.0" floorWidth="170.0" invisible="0" deletes="1" posY="395.0" posX="95.0"/>
+  <floor floorType="1" floorHeight="15.0" floorWidth="90.0" invisible="0" deletes="1" posY="149.0" posX="250.0"/>
+  <floor floorType="0" floorHeight="15.0" floorWidth="15.0" invisible="0" deletes="1" posY="151.0" posX="440.0"/>
+  <floor floorType="0" floorHeight="15.0" floorWidth="90.0" invisible="0" deletes="1" posY="200.0" posX="100.0"/>
+  <floor floorType="3" floorHeight="15.0" floorWidth="80.0" invisible="0" deletes="1" posY="340.0" posX="95.0"/>
+  <floor floorType="0" floorHeight="15.0" floorWidth="120.0" invisible="0" deletes="1" posY="210.0" posX="440.0"/>
+  <floor floorType="2" floorHeight="15.0" floorWidth="70.0" invisible="0" deletes="1" posY="328.0" posX="370.0"/>
+  <floor floorType="0" floorHeight="15.0" floorWidth="120.0" invisible="0" deletes="1" posY="385.0" posX="440.0"/>
+  <floor floorType="1" floorHeight="15.0" floorWidth="15.0" invisible="0" deletes="0" posY="150.0" posX="250.0"/>
+  <platform posY="149.0" horizontal="0" distance="245.0" posX="194.0" floorType="1" dir="1" speed="1.5" deletes="0" holdTime="150" floorHeight="15.0" floorWidth="55.0"/>
+  <platform posY="148.0" horizontal="1" distance="100.0" posX="264.0" floorType="1" dir="1" speed="1.0" deletes="0" holdTime="150" floorHeight="15.0" floorWidth="75.0"/>
+  <platform posY="211.0" horizontal="0" distance="115.0" posX="369.0" floorType="2" dir="1" speed="1.5" deletes="0" holdTime="150" floorHeight="15.0" floorWidth="70.0"/>
+  <switch type="0" whichSwitch="1" posY="325.0" posX="135.0"/>
+  <switch type="0" whichSwitch="2" posY="195.0" posX="520.0"/>
+  <switch type="0" whichSwitch="3" posY="370.0" posX="520.0"/>
+  <walker direction="1" posY="130.0" posX="120.0"/>
+  <wall wallType="0.0" wallWidth="15.0" invisible="0" deletes="1" wallHeight="310.0" posY="100.0" posX="95.0"/>
+  <wall wallType="0.0" wallWidth="15.0" invisible="0" deletes="1" wallHeight="260.0" posY="150.0" posX="250.0"/>
+  <wall wallType="0.0" wallWidth="15.0" invisible="0" deletes="1" wallHeight="65.0" posY="150.0" posX="180.0"/>
+  <wall wallType="3.0" wallWidth="15.0" invisible="0" deletes="1" wallHeight="40.0" posY="355.0" posX="160.0"/>
+  <wall wallType="0.0" wallWidth="15.0" invisible="0" deletes="1" wallHeight="75.0" posY="150.0" posX="440.0"/>
+  <wall wallType="2.0" wallWidth="15.0" invisible="0" deletes="1" wallHeight="103.0" posY="225.0" posX="440.0"/>
+  <wall wallType="0.0" wallWidth="15.0" invisible="0" deletes="1" wallHeight="72.0" posY="328.0" posX="440.0"/>
+  <wall wallType="0.0" wallWidth="15.0" invisible="0" deletes="1" wallHeight="250.0" posY="150.0" posX="560.0"/>
+  <wall wallType="0.0" wallWidth="15.0" invisible="1" deletes="1" wallHeight="310.0" posY="90.0" posX="605.0"/>
+  <goal posY="380.0" posX="135.0"/>
+</level>

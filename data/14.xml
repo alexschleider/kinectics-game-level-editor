@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<level>
+  <chooser amount="1" posY="100.0" chooserType="1" posX="35.0"/>
+  <floor floorType="0" floorHeight="15.0" floorWidth="459.0" invisible="0" deletes="1" posY="97.0" posX="119.0"/>
+  <floor floorType="0" floorHeight="15.0" floorWidth="218.0" invisible="0" deletes="1" posY="182.0" posX="119.0"/>
+  <floor floorType="0" floorHeight="15.0" floorWidth="100.0" invisible="0" deletes="1" posY="182.0" posX="477.0"/>
+  <floor floorType="1" floorHeight="15.0" floorWidth="168.0" invisible="0" deletes="1" posY="182.0" posX="324.0"/>
+  <floor floorType="1" floorHeight="15.0" floorWidth="201.0" invisible="0" deletes="0" posY="389.0" posX="361.0"/>
+  <floor floorType="1" floorHeight="15.0" floorWidth="246.0" invisible="0" deletes="0" posY="389.0" posX="119.0"/>
+  <floor floorType="1" floorHeight="15.0" floorWidth="84.0" invisible="0" deletes="0" posY="232.0" posX="253.0"/>
+  <floor floorType="1" floorHeight="15.0" floorWidth="100.0" invisible="0" deletes="0" posY="301.0" posX="121.0"/>
+  <floor floorType="3" floorHeight="15.0" floorWidth="170.0" invisible="0" deletes="0" posY="182.0" posX="324.0"/>
+  <switch type="0" whichSwitch="1" posY="169.0" posX="447.0"/>
+  <switch type="0" whichSwitch="2" posY="169.0" posX="447.0"/>
+  <switch type="0" whichSwitch="2" posY="287.0" posX="149.0"/>
+  <switch type="0" whichSwitch="3" posY="288.0" posX="149.0"/>
+  <walker direction="1" posY="167.0" posX="250.0"/>
+  <wall wallType="0.0" wallWidth="15.0" invisible="0" deletes="1" wallHeight="100.0" posY="97.0" posX="119.0"/>
+  <wall wallType="0.0" wallWidth="15.0" invisible="0" deletes="1" wallHeight="100.0" posY="97.0" posX="563.0"/>
+  <wall wallType="1.0" wallWidth="15.0" invisible="0" deletes="0" wallHeight="151.0" posY="185.0" posX="479.0"/>
+  <wall wallType="1.0" wallWidth="15.0" invisible="0" deletes="0" wallHeight="62.0" posY="184.0" posX="322.0"/>
+  <wall wallType="2.0" wallWidth="15.0" invisible="0" deletes="0" wallHeight="100.0" posY="97.0" posX="477.0"/>
+  <wall wallType="1.0" wallWidth="15.0" invisible="0" deletes="0" wallHeight="209.0" posY="195.0" posX="119.0"/>
+  <wall wallType="1.0" wallWidth="15.0" invisible="0" deletes="0" wallHeight="100.0" posY="184.0" posX="392.0"/>
+  <goal posY="167.0" posX="546.0"/>
+</level>

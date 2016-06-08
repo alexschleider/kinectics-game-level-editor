@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<level>
+  <chooser amount="1" posY="100.0" chooserType="1" posX="35.0"/>
+  <chooser amount="1" posY="150.0" chooserType="2" posX="35.0"/>
+  <floor floorType="0" floorHeight="15.0" floorWidth="119.0" invisible="0" deletes="1" posY="338.0" posX="271.0"/>
+  <floor floorType="0" floorHeight="15.0" floorWidth="519.0" invisible="0" deletes="1" posY="391.0" posX="85.0"/>
+  <walker direction="1" posY="266.0" posX="299.0"/>
+  <wall wallType="0.0" wallWidth="15.0" invisible="0" deletes="1" wallHeight="180.0" posY="173.0" posX="271.0"/>
+  <wall wallType="0.0" wallWidth="15.0" invisible="0" deletes="1" wallHeight="180.0" posY="173.0" posX="375.0"/>
+  <wall wallType="0.0" wallWidth="15.0" invisible="0" deletes="1" wallHeight="323.0" posY="82.0" posX="85.0"/>
+  <wall wallType="0.0" wallWidth="15.0" invisible="0" deletes="1" wallHeight="323.0" posY="81.0" posX="589.0"/>
+  <goal posY="377.0" posX="335.0"/>
+</level>

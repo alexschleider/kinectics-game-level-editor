@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<level>
+  <chooser amount="1" posY="100.0" chooserType="2" posX="35.0"/>
+  <chooser amount="1" posY="150.0" chooserType="3" posX="35.0"/>
+  <floor floorType="0" floorHeight="15.0" floorWidth="505.0" invisible="0" deletes="1" posY="380.0" posX="90.0"/>
+  <floor floorType="0" floorHeight="15.0" floorWidth="170.0" invisible="0" deletes="1" posY="150.0" posX="100.0"/>
+  <floor floorType="0" floorHeight="15.0" floorWidth="160.0" invisible="0" deletes="1" posY="150.0" posX="420.0"/>
+  <floor floorType="1" floorHeight="15.0" floorWidth="100.0" invisible="0" deletes="1" posY="300.0" posX="100.0"/>
+  <platform posY="150.0" horizontal="0" distance="230.0" posX="270.0" floorType="0" dir="1" speed="1.0" deletes="1" holdTime="200" floorHeight="15.0" floorWidth="150.0"/>
+  <switch type="0" whichSwitch="1" posY="130.0" posX="550.0"/>
+  <walker direction="1" posY="130.0" posX="120.0"/>
+  <wall wallType="0.0" wallWidth="15.0" invisible="0" deletes="1" wallHeight="75.0" posY="90.0" posX="90.0"/>
+  <wall wallType="0.0" wallWidth="15.0" invisible="0" deletes="1" wallHeight="75.0" posY="90.0" posX="580.0"/>
+  <wall wallType="0.0" wallWidth="15.0" invisible="0" deletes="1" wallHeight="145.0" posY="250.0" posX="90.0"/>
+  <wall wallType="0.0" wallWidth="15.0" invisible="0" deletes="1" wallHeight="145.0" posY="250.0" posX="580.0"/>
+  <wall wallType="1.0" wallWidth="15.0" invisible="0" deletes="1" wallHeight="80.0" posY="300.0" posX="200.0"/>
+  <goal posY="365.0" posX="125.0"/>
+</level>

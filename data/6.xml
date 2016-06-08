@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<level>
+  <chooser amount="1" posY="100.0" chooserType="1" posX="35.0"/>
+  <chooser amount="1" posY="150.0" chooserType="3" posX="35.0"/>
+  <floor floorType="0" floorHeight="15.0" floorWidth="500.0" invisible="0" deletes="1" posY="395.0" posX="95.0"/>
+  <floor floorType="0" floorHeight="15.0" floorWidth="90.0" invisible="0" deletes="1" posY="150.0" posX="200.0"/>
+  <floor floorType="1" floorHeight="15.0" floorWidth="90.0" invisible="0" deletes="1" posY="210.0" posX="275.0"/>
+  <floor floorType="0" floorHeight="15.0" floorWidth="230.0" invisible="0" deletes="1" posY="150.0" posX="365.0"/>
+  <floor floorType="0" floorHeight="15.0" floorWidth="100.0" invisible="0" deletes="1" posY="285.0" posX="365.0"/>
+  <floor floorType="0" floorHeight="15.0" floorWidth="50.0" invisible="0" deletes="1" posY="225.0" posX="450.0"/>
+  <floor floorType="2" floorHeight="15.0" floorWidth="75.0" invisible="0" deletes="1" posY="225.0" posX="515.0"/>
+  <platform posY="150.0" horizontal="0" distance="245.0" posX="110.0" floorType="0" dir="1" speed="1.5" deletes="1" holdTime="150" floorHeight="15.0" floorWidth="90.0"/>
+  <platform posY="225.0" horizontal="0" distance="170.0" posX="515.0" floorType="2" dir="1" speed="1.5" deletes="0" holdTime="150" floorHeight="15.0" floorWidth="70.0"/>
+  <switch type="0" whichSwitch="1" posY="135.0" posX="570.0"/>
+  <switch type="0" whichSwitch="2" posY="210.0" posX="480.0"/>
+  <walker direction="1" posY="130.0" posX="120.0"/>
+  <wall wallType="0.0" wallWidth="15.0" invisible="0" deletes="1" wallHeight="310.0" posY="100.0" posX="95.0"/>
+  <wall wallType="0.0" wallWidth="15.0" invisible="0" deletes="1" wallHeight="260.0" posY="150.0" posX="275.0"/>
+  <wall wallType="0.0" wallWidth="15.0" invisible="0" deletes="1" wallHeight="150.0" posY="150.0" posX="365.0"/>
+  <wall wallType="0.0" wallWidth="15.0" invisible="0" deletes="1" wallHeight="310.0" posY="100.0" posX="585.0"/>
+  <wall wallType="0.0" wallWidth="15.0" invisible="0" deletes="1" wallHeight="75.0" posY="165.0" posX="500.0"/>
+  <goal posY="210.0" posX="555.0"/>
+</level>
